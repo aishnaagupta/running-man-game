@@ -1,5 +1,6 @@
 Running Man is a side-scrolling endless runner game built with Pygame. Players control a character who must jump over obstacles to survive. The game combines reflex-based gameplay with animated graphics, dynamic obstacle movement, and sound effects to enhance player engagement.
 <br>
+<br>
 GAME OBJECTIVES:
 <br>
 -survive: survive as long as you can by avoiding all obstacles.
@@ -7,6 +8,7 @@ GAME OBJECTIVES:
 -jump: jump over ground monsters and dodge flying enemies to stay alive.
 <br>
 -score points: set a new high score by lasting longer with each attempt.
+<br>
 <br>
 GAME PLAY:
 <br>
